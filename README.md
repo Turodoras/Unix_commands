@@ -1,3 +1,3 @@
-# Projects WIP
+# Unix commands
 
-This repo contains every projects I'm working on before I release them on their own public repo.
+This repo contains my own versions of some Unix commands.
